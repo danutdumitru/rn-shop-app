@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Provider as ThemeProvider } from "react-native-paper";
+
 import MainApp from "./src";
 import theme from "./src/core/theme";
 import { AppLoading } from "expo";
