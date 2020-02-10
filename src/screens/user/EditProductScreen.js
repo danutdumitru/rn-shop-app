@@ -3,12 +3,11 @@ import React from "react";
 import { View } from "react-native";
 import { Text } from "react-native-paper";
 
-const UserProductsScreen = props => {
+const EditProductScreen = props => {
   return (
     <View>
-      <Text>User PRODUCT Screen</Text>
+      <Text>EDIT Products Screen</Text>
     </View>
   );
 };
-
-export default UserProductsScreen;
+export default EditProductScreen;

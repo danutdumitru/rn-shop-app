@@ -5,6 +5,9 @@ import MainApp from "./src";
 import theme from "./src/core/theme";
 import { AppLoading } from "expo";
 import * as Font from "expo-font";
+import { enableScreens } from "react-native-screens";
+
+enableScreens();
 
 export default function App() {
   const [dataLoaded, setDataLoaded] = useState(false);

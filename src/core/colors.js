@@ -1,6 +1,7 @@
 export const COLORS = {
-    primary: "#600EE6",
+    primary: "#b71c1c",
     secondary: "#414757",
     error: "#f13a59",
-    accent: "#f59611"
+    accent: "#f59611",
+    headerTint: "white"
 };
